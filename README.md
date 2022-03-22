@@ -1,16 +1,19 @@
-# kisanseva
+# KisanSeva
 
-A new Flutter project.
+Kisan Seva is an IoT-based application that is useful for farmers. Using this application, farmers can get the current temperature and humidity details.
 
-## Getting Started
+**The problem KisanSeva solves**
 
-This project is a starting point for a Flutter application.
+Farmers have tremendous importance in our society, and it is due to them
+that we can fulfill our basic needs of food. Many times, due to poor or
+negligent monitoring of soil health, they tend to face many losses due to a
+drop in the quality of their crops. To minimize the laborious work on their end,
+build an agricultural monitoring website/application. This will help the
+farmers make informed decisions while farming and increase product yield
+while maintaining the standard.
+The website/application should be intuitive and easy to use with the
+requirements in mind and should consider the cost and complexity of the IoT
+components involved for ease in deployment over multiple regions.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Technologies we used**
+Firebase, Raspberry Pi, Internet of Things (IoT), DartFlutter
